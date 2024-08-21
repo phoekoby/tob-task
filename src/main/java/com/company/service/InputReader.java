@@ -1,4 +1,4 @@
-package com.company.service.interfaces;
+package com.company.service;
 
 public interface InputReader {
     void read();

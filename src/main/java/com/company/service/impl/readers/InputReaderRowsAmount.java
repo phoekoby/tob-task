@@ -1,14 +1,14 @@
-package com.company.service.readers;
+package com.company.service.impl.readers;
 
 import com.company.dto.InputDto;
 import com.company.dto.OutputDto;
-import com.company.service.InputStringParser;
-import com.company.service.OutputStringGenerator;
-import com.company.service.RequestService;
-import com.company.service.interfaces.BusinessLogic;
-import com.company.service.interfaces.InputParser;
-import com.company.service.interfaces.InputReader;
-import com.company.service.interfaces.OutputGenerator;
+import com.company.service.impl.InputStringParser;
+import com.company.service.impl.OutputStringGenerator;
+import com.company.service.impl.RequestService;
+import com.company.service.BusinessLogic;
+import com.company.service.InputParser;
+import com.company.service.InputReader;
+import com.company.service.OutputGenerator;
 
 import java.util.Scanner;
 

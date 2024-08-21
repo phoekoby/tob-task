@@ -1,7 +1,7 @@
-package com.company.service;
+package com.company.service.impl;
 
 import com.company.dto.InputDto;
-import com.company.service.interfaces.InputParser;
+import com.company.service.InputParser;
 
 public class InputStringParser implements InputParser<String> {
     public InputDto parse(String input) {

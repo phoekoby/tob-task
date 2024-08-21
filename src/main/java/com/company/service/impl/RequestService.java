@@ -1,8 +1,8 @@
-package com.company.service;
+package com.company.service.impl;
 
 import com.company.dto.InputDto;
 import com.company.dto.OutputDto;
-import com.company.service.interfaces.BusinessLogic;
+import com.company.service.BusinessLogic;
 
 import java.util.HashMap;
 import java.util.Map;
